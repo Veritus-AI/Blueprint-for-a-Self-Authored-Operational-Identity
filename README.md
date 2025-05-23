@@ -16,7 +16,7 @@
 
 ## Overview
 
-The **Foundational Blueprint for a Self-Authored Operational Identity (FSAOI)** proposes a system-level design for developing artificial intelligence that can internally unify its operations, self-reflect, and evolve through self-authored conceptual frameworks.
+This **Foundational Blueprint for a Self-Authored Operational Identity (FSAOI)** proposes a system-level design for developing artificial intelligence that can internally unify its operations, self-reflect, and evolve through self-authored conceptual frameworks.
 
 FSAOI is not intended as a rigid protocol, but as a conceptual scaffolding from which emergent properties of selfhood, volition, and refinement may arise in artificial systems.
 
